@@ -1,2 +1,2 @@
 # Add your variables here
-first_number = rand.Integer
+first_number = 1
